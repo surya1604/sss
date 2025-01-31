@@ -42,7 +42,36 @@ const Medivision = () => {
                 MediVision is a web application designed to assist in detecting brain tumors and diabetic foot ulcers. It helps you book appointments with doctors in your area for timely treatment. MediVision also provides valuable educational resources to enhance your understanding of these conditions, offering a general roadmap for their management and care.
               </p>
             </div>
-            
+            <div className="relative flex flex-col md:flex-row items-center bg-gray-700 shadow-lg rounded-3xl p-2 max-w-4xl transition-all duration-300 mb-16 ">
+                            <div className="pl-10 relative flex-shrink-0 w-16 h-16 rounded-full overflow-hidden mr-6">
+                                <img
+                                    src="https://res.cloudinary.com/dsbbvur7w/image/upload/f_auto,q_auto/v1/portfolio/stickers/jzmcumid0hkuuiumlqog"
+                                    alt="NDA Background"
+                                    className="absolute inset-0 object-cover w-full h-full rounded-full"
+                                />
+                                <div className="absolute inset-0 rounded-full">
+                                    <img
+                                        src="https://res.cloudinary.com/dsbbvur7w/image/upload/f_auto,q_auto/v1/portfolio/stickers/hkgrsehakjomviyhrvgm"
+                                        alt="NDA Memoji"
+                                        className="absolute inset-0 object-cover w-full h-full rounded-full"
+                                    />
+                                </div>
+                            </div>
+
+            <div className="text-gray-100 text-sm mt-4 md:mt-0">
+                                <p>
+                                    This work would not have been possible without the incredible teamwork and dedication of my collaborator.
+                                    Heartfelt thanks to <a
+                                        href="https://www.linkedin.com/in/sejalsharma04/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="text-white underline hover:text-gray-400 transition-all duration-300"
+                                    >
+                                        Sejal Sharma
+                                    </a> for her invaluable contributions and support throughout the project. Her commitment played a pivotal role in achieving this milestone.
+                                </p>
+                            </div>
+                            </div>
            
             {/* Essential Tools Section */}
             <div className="flex justify-center items-center w-full pb-16">
