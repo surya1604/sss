@@ -68,7 +68,7 @@ const About = () => {
                     <div className="flex-1">
                         <div className="p-6 bg-gray-600 bg-opacity-5 rounded-lg border-2 border-gray-500 shadow-md">
                             <h2 className="headline-2 max-w-[30ch] sm:max-w-[20ch] lg:max-w-[30ch] mt-5 mb-8 lg:mb-5">
-                                My brain contains traces of extreme curiosity and an unhealthy obsession with making machines think. Inspired from Dr. Heinz Doofenshmirtz of Phineas and ferb, I became an AI enthusiast who believes technology should be both intelligent and entertaining and not dangerous.
+                            My brain carries traces of extreme curiosity and an unhealthy obsession with making machines think. Inspired by Dr. Heinz Doofenshmirtz from <i>Phineas and Ferb </i>, I became an AI enthusiast who believes technology should be both intelligent and entertaining while ensuring it remains safe and not dangerous.
                             </h2>
                         </div>
                     </div>
