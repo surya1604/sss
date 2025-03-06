@@ -136,6 +136,21 @@ const About = () => {
                             {/* Button: Acelucid Technologies */}
                             <div className="mb-8">
                                 <ButtonWithArrow
+                                    label="Outlier AI"
+                                    href="https://www.acelucid.com/"
+                                    target="_blank"
+                                    classes="mt-4"
+                                />
+                            </div>
+                            {/* SDE Intern Section */}
+                            <h2 className="headline-4 max-w-[30ch] sm:max-w-[20ch] lg:max-w-[43ch] mt-5 mb-8 lg:mb-5">
+                                AI Trainer • 6th January 2025 - Present (Remote)
+                            </h2>
+                            <h2 className="headline-5 max-w-[30ch] sm:max-w-[20ch] lg:max-w-[43ch] mt-5 mb-8 lg:mb-5">
+                            I have worked on 6+ projects and completed 20+ tasks focused on training and optimizing large language models (LLMs). My work involved fine-tuning LLMs for instruction following, enhancing accuracy, and improving response coherence. I designed and implemented prompt engineering strategies, evaluated model performance across various benchmarks, and optimized datasets for better generalization. Additionally, I contributed to testing and unit testing frameworks to ensure robust and scalable AI solutions.                            </h2>
+                            {/* Button: Acelucid Technologies */}
+                            <div className="mb-8">
+                                <ButtonWithArrow
                                     label="Acelucid Technologies"
                                     href="https://www.acelucid.com/"
                                     target="_blank"
