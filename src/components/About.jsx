@@ -137,7 +137,7 @@ const About = () => {
                             <div className="mb-8">
                                 <ButtonWithArrow
                                     label="Outlier AI"
-                                    href="https://www.acelucid.com/"
+                                    href="https://outlier.ai/"
                                     target="_blank"
                                     classes="mt-4"
                                 />
